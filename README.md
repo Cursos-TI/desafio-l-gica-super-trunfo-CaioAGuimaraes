@@ -1,6 +1,6 @@
 # 🏆 Desafio Super Trunfo - Países - Comparação das Cartas
 
-Este repositório contém a implementação do **Desafio Super Trunfo - Países** proposto na disciplina de Lógica de Programação da Estácio de Sá. O projeto está dividido em três níveis de complexidade: Novato, Aventureiro e Mestre.
+Este repositório contém a implementação do **Desafio Super Trunfo - Países** proposto na disciplina de Introdução à Programação de Computadores da Estácio de Sá. O projeto está dividido em três níveis de complexidade: Novato, Aventureiro e Mestre.
 
 ---
 
