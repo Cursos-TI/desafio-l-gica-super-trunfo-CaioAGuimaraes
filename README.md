@@ -57,7 +57,7 @@ Este repositório contém a implementação do **Desafio Super Trunfo - Países*
 
 ## ✍️ Autor
 
-Caio Guimarães  
-Aluno Estácio de Sá
+Caio Augusto Teixeira Guimarães  
+Aluno Estácio de Sá – Gestão da Tecnologia da Informação
 
 ---
